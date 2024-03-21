@@ -246,7 +246,7 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: var(--color-default);
+    color: var(--color-white);
   }
 
   .navbar .getstarted,
@@ -405,7 +405,7 @@ section {
 
   .mobile-nav-toggle {
     display: inline-block;
-    color: var(--color-secondary);
+    color: var(--color-white);
     font-size: 28px;
     cursor: pointer;
     line-height: 0;
